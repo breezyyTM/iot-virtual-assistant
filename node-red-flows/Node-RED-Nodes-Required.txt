@@ -1,0 +1,4 @@
+Nodes to Install:
+1. node-red-contrib-thingspeak42
+2. node-red-node-mysql
+3. node-red-dashboard
